@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 este projeto é um jogo simples desenvolvido em HTML, CSS e JavaScript.
-O objetivo o jogo é adivinhar o número secreto geradoaleatoriamente pelo sistema.
+O objetivo o jogo é adivinhar o número secreto gerado aleatoriamente pelo sistema.
 
 ## ✈️ Tecnologias
 
